@@ -1,5 +1,5 @@
 # MNIST Digit Recognition Using Various CNN Architectures
-***
+
 In this project, I have explored different Convolutional Neural Network (CNN) architectures to perform digit recognition on the MNIST dataset. The goal is to compare the performances of these architectures in accurately classifying handwritten digits.
 
 The CNN architectures used are as follows:
